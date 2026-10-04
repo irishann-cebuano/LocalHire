@@ -2,7 +2,7 @@
 - Web-Based Local Job Matching System for Job Seekers and Small Businesses
 LocalHire is a web-based local job matching system designed to connect job seekers with local businesses.
 
-Features
+Features:
 -User login
 -Job seeker dashboard
 -Business owner dashboard
@@ -11,13 +11,13 @@ Features
 -Job applications
 -Application status tracking
 
-Requirements
+Requirements:
 -XAMPP
 -PHP
 -MySQL
 -Web browser
 
-Setup Instructions
+Setup Instructions:
 -Download or clone this repository.
 -Place the LocalHire folder inside the XAMPP htdocs folder.
 -Start Apache and MySQL using XAMPP.
@@ -32,5 +32,5 @@ Database name:
 -db_localhire
 The database schema is included in the database folder.
 
-Current Status
+Current Status:
 _This repository contains the proof-of-concept scaffold and prototype implementation of LocalHire. Additional features and improvements will be added during the final development phase._
