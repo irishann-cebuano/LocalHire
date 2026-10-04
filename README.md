@@ -1,6 +1,6 @@
 # LocalHire
 - Web-Based Local Job Matching System for Job Seekers and Small Businesses
-LocalHire is a web-based local job matching system designed to connect job seekers with local businesses.
+-LocalHire is a web-based local job matching system designed to connect job seekers with local businesses.
 
 Features:
 -User login
